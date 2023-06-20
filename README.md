@@ -1,4 +1,4 @@
-This project is not included with dataset so I will outline the dataset links below as well as put a reference link to the original project
+This project is not included with the dataset so I will outline the dataset links below as well as put a reference link to the original project
 
 dataset
 malware
@@ -12,4 +12,5 @@ benign
 https://github.com/bormaa/Benign-NET
 
 original project 
+
 https://github.com/jaketae/deep-malware-detection
