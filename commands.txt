@@ -1,0 +1,7 @@
+extract headers command;
+python3 extract_header.py --input_dir=/home/kali/deep-malware-detection/raw/benign_samples/benign/ --output_dir=/home/kali/deep-malware-detection/raw/benign
+
+
+train command;
+python3 train.py --benign_dir=/home/kali/deep-malware-detection/raw/benign --malware_dir=/home/kali/deep-malware-detection/raw/malware
+
